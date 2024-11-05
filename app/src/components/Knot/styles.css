@@ -1,0 +1,9 @@
+.knot{
+    width: 100%;
+    height: 3rem;
+    background-color: var(--primary);
+    border-radius: 2rem;
+    cursor: grab;
+    position: absolute;
+    box-sizing: border-box;
+}
